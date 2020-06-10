@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp-demo02[jsp-servlet-MVC2-CRUD vs Boottrap]:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsp_demo02_jsp_servlet_MVC2_CRUD_vs_Boottrap__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsp-demo02[jsp-servlet-MVC2-CRUD vs Boottrap]/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp-demo02[jsp-servlet-MVC2-CRUD vs Boottrap]" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.18" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
